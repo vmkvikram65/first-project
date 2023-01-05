@@ -1,3 +1,4 @@
 a=60
 b=141
-print(a+b)
+c=10
+print(a+b+c)
